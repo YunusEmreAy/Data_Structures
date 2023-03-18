@@ -1,1 +1,1 @@
-# C Dili ile Yazılmış Veri Yapıları Projeleri
+# C Dili ile Yazılmış "Veri Yapıları" Projeleri
