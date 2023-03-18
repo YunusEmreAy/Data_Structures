@@ -1,0 +1,8 @@
+- Kayıtlar; İsim, Soy isim, Telefon Numarası bilgilerini içermektedir, **Dairesel Bağlı Listeden** oluşmaktadır.
+- Program
+	- Liste Başına Yeni Kayıt **Ekleme**
+	- Telefon ve İsme Göre **Arama**
+	- **Listeleme**
+	- Soyada Göre **Sıralama**
+	- Telefon Numarasına Göre **Silme** fonksiyonlarından oluşmaktadır.
+- Aynı telefon numarası ile birden fazla kayıt yapılmamaktadır.
