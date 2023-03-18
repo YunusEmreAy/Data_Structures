@@ -1,4 +1,4 @@
-// Yunus Emre Ay / 21100011016 / Tel:05516524768 / E-posta:TR.yunus.emre.ay.gmail.com
+// Yunus Emre Ay / E-posta:TR.yunus.emre.ay.gmail.com
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
