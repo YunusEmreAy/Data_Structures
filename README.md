@@ -1,1 +1,1 @@
-# Java Dili ile Yazılmış "Nesne Yönelimli Programlama" Projeleri
+# C Dili ile Yazılmış "Veri Yapıları" Projeleri
