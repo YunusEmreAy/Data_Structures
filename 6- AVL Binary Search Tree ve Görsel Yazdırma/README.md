@@ -5,7 +5,7 @@
 
 ------------
 
-- "**görsel olarak**" ekrana yazdırma işlemi aşağıdaki gibidir.
+"**Görsel olarak**" ekrana yazdırma işlemi aşağıdaki gibidir.
 
 ![](https://i.hizliresim.com/flx3x1b.png) 
 ![](https://i.hizliresim.com/370ji6t.png) 
